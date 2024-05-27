@@ -1,6 +1,5 @@
-# ALX SE PROTFOLIO PROJECT
 
-# Personal Portfolio Website
+# My Personal Portfolio Website
 
 Welcome to my personal portfolio website! This README provides an overview of the project, including how to set up and run the site locally, the technologies used, and the structure of the project.
 
